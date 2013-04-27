@@ -1,0 +1,46 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Clojure",
+		"Java",
+		"C#",
+		"Vintage",
+		"OCaml",
+		"Objective-C",
+		"Haskell",
+		"Erlang"
+	],
+	"ignored_words":
+	[
+		"schmucks"
+	],
+	"match_brackets": true,
+	"match_brackets_content": true,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"trailing_spaces_include_current_line": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true
+}

@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"Cucumber",
+		"DocBlockr",
+		"ERB Snippets",
+		"INI",
+		"LineEndings",
+		"Package Control",
+		"PHP Companion",
+		"PHP-Twig",
+		"PHPUnit Completions",
+		"SideBarEnhancements",
+		"Smart Match",
+		"SublimeCodeIntel",
+		"SublimeTODO",
+		"Todo.txt Syntax",
+		"ToggleQuotes",
+		"TrailingSpaces"
+	]
+}
