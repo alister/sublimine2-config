@@ -1,21 +1,28 @@
 {
 	"installed_packages":
 	[
+		"Additional PHP Snippets",
 		"All Autocomplete",
 		"ApplySyntax",
+		"ccampbell-sublime-smart-match-489ee5c",
+		"clintberry-sublime-text-2-ini-523390d",
 		"Cucumber",
 		"DocBlockr",
 		"ERB Snippets",
+		"Gitignore",
 		"INI",
 		"LineEndings",
 		"Package Control",
 		"PHP Companion",
 		"PHP-Twig",
 		"PHPUnit Completions",
+		"Placeholders",
 		"SideBarEnhancements",
 		"Smart Match",
 		"SublimeCodeIntel",
 		"SublimeTODO",
+		"Surround Code with Snippets",
+		"text-2-ini",
 		"Todo.txt Syntax",
 		"ToggleQuotes",
 		"TrailingSpaces"
